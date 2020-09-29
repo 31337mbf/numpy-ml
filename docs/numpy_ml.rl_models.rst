@@ -1,4 +1,4 @@
-Reinforcement learning 
+Reinforcement learning
 ######################
 
 .. toctree::
@@ -8,6 +8,4 @@ Reinforcement learning
 
    numpy_ml.rl_models.trainer
 
-   numpy_ml.rl_models.utils
-
-   numpy_ml.rl_models.tiles
+   numpy_ml.rl_models.rl_utils
